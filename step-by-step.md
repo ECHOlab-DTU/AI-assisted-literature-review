@@ -20,7 +20,7 @@ When downloading the list of publciations and entities as a csv file, remember t
 
 - select all
 - export as csv
-- include abstracts & (author / index) keywords
+- include abstracts & keywords
 
 <img src="images/Screenshot 2025-03-28 at 12.42.25.png" width="600" height="400">
 
@@ -28,6 +28,11 @@ When downloading the list of publciations and entities as a csv file, remember t
 There is a limit to the number of articles that can be downloaded at a time. 
 If you wish to include more than the given number in your file, you have to download the results in different steps and merge them into one csv file manually.
 
+
+## Step 2 - Visualizing in ScienceScape
+
+ScienceScape works with the csv data from Scopus or alternatively Web of Science and turns them into visualizations. 
+There are a number of visualization types to choose from.
 
 
 
