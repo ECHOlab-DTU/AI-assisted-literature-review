@@ -15,14 +15,19 @@ Visualizations can help to show relations of aspects such as keywords or authors
 
 ## Step 1 - Download data as a csv file
 
-In this example we use scientific literature from [Scopus]().
+In this example we use scientific literature from [Scopus](https://www.scopus.com).
 When downloading the list of publciations and entities as a csv file, remember the following:
 
 - select all
 - export as csv
 - include abstracts & (author / index) keywords
 
+<img src="images/Screenshot 2025-03-28 at 12.42.25.png" width="600" height="400">
+
+
 There is a limit to the number of articles that can be downloaded at a time. 
 If you wish to include more than the given number in your file, you have to download the results in different steps and merge them into one csv file manually.
+
+
 
 
