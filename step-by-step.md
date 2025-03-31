@@ -36,10 +36,10 @@ There are a number of visualization types to choose from.
 
 ## Step 3 - Visualizing in Table2Net
 
-As opposed to ScienceScape, Table2Net can work with any type of tabular data. So we are less restricted on the input (does not have to be Scopus or WebofScience).
+As opposed to ScienceScape, [Table2Net](https://medialab.github.io/table2net/) can work with any type of tabular data. So we are less restricted on the input (does not have to be Scopus or WebofScience).
 An example could be interview data, that you have curated into a tabular format; say Speaker and Answer in a spreadsheet as a csv file.
 
-Once you open Table2Net, you have different options to explore, beginning with the type of network. In our case we choose a normal network (one type of node). 
+Once you open [Table2Net](https://medialab.github.io/table2net/), you have different options to explore, beginning with the type of network. In our case we choose a normal network (one type of node). 
 The nodes can represent a variable of your choosing (e.g. author keywords)
 For now, we do not add other attributes.
 
@@ -54,7 +54,7 @@ Table2Net produces a network file that we are visualizing in Gephi or Gephi Lite
 
 ## Step 4 - Gephi or Gephi Lite
 
-Gephi can be downloaded, GephiLite is the browser version of the program.
+Gephi can be downloaded, [GephiLite](https://gephi.org/gephi-lite/) is the browser version of the program.
 In this step you need to think about what you want to see
 
 
