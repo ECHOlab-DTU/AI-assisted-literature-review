@@ -34,5 +34,29 @@ If you wish to include more than the given number in your file, you have to down
 ScienceScape works with the csv data from Scopus or alternatively Web of Science and turns them into visualizations. 
 There are a number of visualization types to choose from.
 
+## Step 3 - Visualizing in Table2Net
+
+As opposed to ScienceScape, Table2Net can work with any type of tabular data. So we are less restricted on the input (does not have to be Scopus or WebofScience).
+An example could be interview data, that you have curated into a tabular format; say Speaker and Answer in a spreadsheet as a csv file.
+
+Once you open Table2Net, you have different options to explore, beginning with the type of network. In our case we choose a normal network (one type of node). 
+The nodes can represent a variable of your choosing (e.g. author keywords)
+For now, we do not add other attributes.
+
+The links between the nodes refer to row numbers in your table.
+
+We do not add temporal data in this case. But again - all variables are customizable to your preferences.
+
+The difference between the tabular data and the network you produce here, is that the network data has attributes - coordinates etc. 
+There are relations between the data points, making it possible to place them in a coordinate system.
+
+Table2Net produces a network file that we are visualizing in Gephi or Gephi Lite.
+
+## Step 4 - Gephi or Gephi Lite
+
+Gephi can be downloaded, GephiLite is the browser version of the program.
+In this step you need to think about what you want to see
+
+
 
 
