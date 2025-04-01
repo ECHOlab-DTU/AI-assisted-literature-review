@@ -97,7 +97,7 @@ You will upload your data and start a script. Cortext will then produce a text a
 An example of what you can do here is the extraction of noun phrases (several words in a sequence that refer to a concept or analysis point)
 You can see an example of a network created in cortext using noun phrases here:
 
-<img src="images/ainoadata.pdf" width="600" height="400">
+<img src="images/ainoadata.png" width="600" height="400">
 
 
 
