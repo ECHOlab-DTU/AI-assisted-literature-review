@@ -39,7 +39,7 @@ If you wish to include more than the given number in your file, you have to down
 
 ## Step 2 - Visualizing in ScienceScape
 
-ScienceScape works with the csv data from Scopus or alternatively Web of Science and turns them into visualizations. 
+[ScienceScape](https://medialab.github.io/sciencescape/) works with the csv data from Scopus or alternatively Web of Science and turns them into visualizations. 
 There are a number of visualization types to choose from.
 
 ## Step 3 - Visualizing in Table2Net
@@ -64,6 +64,41 @@ Table2Net produces a network file that we are visualizing in Gephi or Gephi Lite
 
 Gephi can be downloaded, [GephiLite](https://gephi.org/gephi-lite/) is the browser version of the program.
 In this step you need to think about what you want to see
+
+Once you have uploaded your network file to Gephi and receive the first (probably quite messy and dense) network, you can apply different filters.
+
+1. Choosing a layout
+
+We use the force atlas layout, which uses a force-vector algorithm - a simulated physical force that pulls the nodes together. 
+It will keep running to try and optimize the relations between the nodes until they are balanced. It is imposssible to balance perfectly, but
+in order to merge all nodes in a 2-dimensional space this is as good as it gets.
+
+2. Turn on the labels
+We turn on labels to see what the titles of the nodes are. In our case - visualizing keywords - we see keywords that tend to appear together in papers
+and groups of papers where these occur together.
+
+<img src="images/Screenshot 2025-03-27 at 13.04.02.png" width="600" height="400">
+
+
+## Step 5 - Cortext
+
+Using [Cortext](https://managerv2.cortext.net/dashboard) requires setting up a free account.
+
+This interface does not require coding by the user, but offers functios that would also be achievable by coding them in python for example.
+The open-source platform gives you an interfacce to work with a scrupt of your own data.
+You will upload your data and start a script. Cortext will then produce a text analysis and add layers of analysis onto your script.
+
+1. Click "upload file" and upload your text file
+2. click "start script"
+3. In NLP a dataset is called a corpus, therefore you turn the data into a script by saying "parsing the corpus"
+4. click "run script"
+5. we now created a database that we can use to do different things with in Cortext.
+
+An example of what you can do here is the extraction of noun phrases (several words in a sequence that refer to a concept or analysis point)
+You can see an example of a network created in cortext using noun phrases here:
+
+<img src="images/ainoadata.pdf" width="600" height="400">
+
 
 
 
