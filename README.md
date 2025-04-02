@@ -44,6 +44,9 @@ If you wish to include more than the given number in your file, you have to down
 [ScienceScape](https://medialab.github.io/sciencescape/) works with the csv data from Scopus or alternatively Web of Science and turns them into visualizations. 
 There are a number of visualization types to choose from.
 
+<img src="images/ScienceScape.png" width="600" height="400">
+
+
 ## Step 3 - Visualizing in Table2Net
 
 As opposed to ScienceScape, [Table2Net](https://medialab.github.io/table2net/) can work with any type of tabular data. So we are less restricted on the input (does not have to be Scopus or WebofScience).
