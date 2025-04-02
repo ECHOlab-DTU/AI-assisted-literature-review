@@ -1,3 +1,5 @@
+<img src="images/Literature Reviews-2.png" width="900" height="400">
+
 # AI-assisted-literature-review
 Workshop series
 
