@@ -62,6 +62,9 @@ There are relations between the data points, making it possible to place them in
 
 Table2Net produces a network file that we are visualizing in Gephi or Gephi Lite.
 
+<img src="images/Screenshot 2025-04-02 at 14.14.21.png" width="600" height="400">
+
+
 ## Step 4 - Gephi or Gephi Lite
 
 Gephi can be downloaded, [GephiLite](https://gephi.org/gephi-lite/) is the browser version of the program.
