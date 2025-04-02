@@ -107,6 +107,15 @@ You can see an example of a network created in cortext using noun phrases here:
 
 <img src="images/ainoadata.png" width="600" height="400">
 
+## Step 6 - TUT
+
+The [text unit tool](https://tut.man.dtu.dk) is hosted and currently developed at DTU ECHO Lab.
+The tool allows to put any kind of sequential textual data, such as interview materials, transcribed audio files or paragraphs in a text. 
+
+TUT provides an interface to navigate these unstructured data formats in new ways. 
+Instead of relying on predefined categories, the tool creates an archive focused on similarities, enabling exploratory analysis of the content. 
+As opposed to the other visualization methods, this tool allows for interactive analysis and research within the body of unstructured textual data. 
+
 
 
 
