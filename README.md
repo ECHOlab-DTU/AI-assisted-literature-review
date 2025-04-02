@@ -6,7 +6,7 @@ Workshop series
 In this workshop series we introduce tools and websites that can assisst researchers navigating existing literature and visualizing literature reviews.
 The aim is to equip researchers with a pipeline of tools and software that can facilitate literature searches, inspire new ways to analyse existing literature, and visualize the literature landscape in specific research areas.
 ### PDF Step-by-step guide
-[Download here]()
+[Download here](https://github.com/ECHOlab-DTU/AI-assisted-literature-review/blob/main/StepbyStepguide.pdf)
 
 # WORKSHOP: Literature Visualizations - Step by step
 
